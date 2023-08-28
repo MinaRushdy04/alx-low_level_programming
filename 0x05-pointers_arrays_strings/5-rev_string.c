@@ -21,7 +21,7 @@ length--;
  * @s: string
  *Return: returns lenght;
  */
-int _strlen(char *s)
+int strlen(char *s)
 {
 int count, inc;
 inc = 0;
